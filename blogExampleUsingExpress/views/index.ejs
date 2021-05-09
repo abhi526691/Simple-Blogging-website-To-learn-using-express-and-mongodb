@@ -1,0 +1,25 @@
+<html>
+    
+    <head>
+        <%- include('./partials/header') %>
+        <%- include('./partials/navbar') %>
+    </head>
+    <body>
+        <div class="blogs content">
+        <h2> All Blogs </h2>
+        <% if(blogs.length) { %>
+            <% blogs.forEach(blog => { %>
+                <a class="single" href="blogs/<%= blog._id %>" >
+                <h3 > <%= blog.title %> </h3>
+                <p > <%= blog.snippet %> </p>
+                </a>
+            <% }) %>
+            <% }else{  %>
+                <h1>There are no Blogs in this....</h1>
+                <% } %>
+            </div>
+    </body>
+
+    <%- include('./partials/scripts') %> 
+    <%- include('./partials/footer') %>
+</html>
