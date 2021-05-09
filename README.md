@@ -28,12 +28,12 @@
 
   <h3 align="center">Blogging Website using Express.js and MongoDb</h3>
 
-  <p align="center">
-    An awesome Project to withstart your learning with express
+  <p  align="center">
+    An awesome Project to withstart your learning with express. This project will help you to withstart your path of learning with express and connection of it with database more precisely mongodb. The best way to learn is by creating small projects which will help you learn and understand the concept of it.
     <br />
-    <a href="https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb/tree/main/blogExampleUsingExpress"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb/tree/main/blogExampleUsingExpress"><strong align="center">Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb.git">View Demo</a>
+    <a href="https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb.git" align="center">View Demo</a>
     
   </p>
 </p>
