@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Abhishek Pandey - [linkedin](https://www.linkedin.com/in/abhishek-pandey-1515aa171/) - sauravpandey597@gmail.com
+Abhishek Pandey - [linkedin](https://www.linkedin.com/in/abhishek-pandey-1515aa171/) - abhi526691shek@gmail.com
 
 Project Link: [https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb](https://github.com/abhi526691/Simple-Blogging-website-To-learn-using-express-and-mongodb)
 
